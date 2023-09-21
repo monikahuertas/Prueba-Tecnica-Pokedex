@@ -1,0 +1,12 @@
+nav{
+    background-color: yellow;
+    height: 100px;
+    padding: 7px;
+    /* align-items:flex-start;
+    display: flex; */
+}
+
+nav > svg{
+    height: 90px;
+    width: auto;
+}
